@@ -9,9 +9,9 @@ export default function Header() {
 				src={profileImg}
 				alt="Imagem de Perfil"
 			/>
-			<div className="flex flex-col ml-10">
-				<h1 className="text-3xl font-bold mb-4">
-					Hey, I&apos;m Clara Dinato 👋
+			<div className="flex flex-col md:ml-10">
+				<h1 className="text-[26px] md:text-3xl font-bold mb-4">
+					Hey, I&apos;m Clara Dinato👋
 				</h1>
 				<p className="mb-4">
 					I&apos;m a{" "}
@@ -23,7 +23,7 @@ export default function Header() {
 					I&apos;m always keen to learn something new and always trying to be
 					updated with the technological news.
 				</p>
-				<div className="flex flex-col md:flex-row gap-3">
+				<div className="flex gap-3">
 					<Button
 						text="Contact Me"
 						href="mailto:contatodinatoclara@gmail.com"

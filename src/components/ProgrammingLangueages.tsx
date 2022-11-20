@@ -9,7 +9,6 @@ import { BsBootstrap } from "react-icons/bs";
 import { SiTailwindcss } from "react-icons/si";
 import { SiReact } from "react-icons/si";
 import { SiAdobephotoshop } from "react-icons/si";
-import { FaFigma } from "react-icons/fa";
 import { FaGitAlt } from "react-icons/fa";
 import { SiTypescript } from "react-icons/si";
 
@@ -27,7 +26,6 @@ export default function ProgrammingLanguage() {
 				<SiTailwindcss size={40} className="text-indigo-500" />
 				<SiReact size={40} className="text-indigo-500" />
 				<SiAdobephotoshop size={40} className="text-indigo-500" />
-				<FaFigma size={40} className="text-indigo-500" />
 				<FaGitAlt size={40} className="text-indigo-500" />
 			</div>
 		</>

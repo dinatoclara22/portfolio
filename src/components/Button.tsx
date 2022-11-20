@@ -1,8 +1,8 @@
 import { IoMdMail } from "react-icons/io";
 
 interface Props {
-	text: string
-	href: string
+	text: string;
+	href: string;
 }
 
 export default function Button({ text, href }: Props) {
