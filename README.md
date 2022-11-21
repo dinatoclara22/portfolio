@@ -1,5 +1,6 @@
 ## Minimal Portfólio
 ### Projeto realizado por Clara Dinato, você consegue acessar clicando [aqui](https://portfolio-yjfw.vercel.app/). 💜
+![Screenshot 2022-11-20 205252](https://user-images.githubusercontent.com/79380602/202933902-564d8ebd-e0c0-4e6c-ae1d-c2a2882667da.png)
 
 
 ## 🎯 Tecnologia Utilizadas:
