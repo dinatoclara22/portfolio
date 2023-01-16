@@ -1,7 +1,18 @@
-import Title from "./Title";
-import WorkItem from "./WorkItem";
+import Title from "../Title";
+import WorkItem from "./WorkItems/WorkItem";
 
 export default function Works() {
+	// const urlProjects = [
+	// 	{
+	// 		url: "https://github.com/dinatoclara22/home-you",
+	// 		image: "/assets/homeyou.svg",
+	// 	},
+	// 	{
+	// 		url: "https://github.com/dinatoclara22/home-you",
+	// 		image: "/assets/homeyou.svg",
+	// 	},
+	// ];
+
 	return (
 		<section>
 			<div className="mt-14 mb-9">

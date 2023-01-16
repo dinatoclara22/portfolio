@@ -1,0 +1,55 @@
+{
+	"Computer": [
+		{
+			"name": "Notebook Nitro 5 2020",
+			"link": "https://br-store.acer.com/notebook-acer-an517-54-59kr-ci511400h-8gb-512gb-ssd-4g-gddr6-gutta-br-black-17-3-fhd-nh-qegal-006/p"
+		},
+		{
+			"name": "Mouse: Logitech G PRo",
+			"link": "https://www.amazon.com.br/Logitech-Tecnologia-LIGHTSPEED-Program%C3%A1veis-Recarreg%C3%A1vel/dp/B088GM47CD/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1WEWH0MJ1TB49&keywords=g+pro&qid=1673904053&sprefix=g+pr%2Caps%2C240&sr=8-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147"
+		},
+		{
+			"name": "Teclado: Redragon Draconic Pro",
+			"link": "https://www.amazon.com.br/Redragon-TECLADO-MECANICO-DRACONIC-SWITCH/dp/B0B6KRHPXF/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=OIJZXS3BIZV8&keywords=redragon+draconic+pro&qid=1673904305&sprefix=redragon+draconic+pro%2Caps%2C201&sr=8-1&ufe=app_do%3Aamzn1.fos.4bddec23-2dcf-4403-8597-e1a02442043d"
+		},
+		{
+			"name": "Monitor: LG Ultrawide 25 75hz 1ms",
+			"link": "https://www.amazon.com.br/Monitor-LG-Gamer-UltraWide-Full/dp/B086M4KK5F/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=A3H0EOMNRW5X&keywords=LG+Ultrawide+25+75hz+1ms&qid=1673904256&sprefix=lg+ultrawide+25+75hz+1ms%2Caps%2C186&sr=8-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147"
+		},
+		{
+			"name": "Headset: Logitech G435",
+			"link": "https://www.amazon.com.br/Logitech-LIGHTSPEED-Bluetooth-Confort%C3%A1vel-Microfone/dp/B08R8DQDRK/ref=sr_1_1?crid=3SAF85S2WHRFG&keywords=g435&qid=1673904426&sprefix=g435%2Caps%2C204&sr=8-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147"
+		},
+		{
+			"name": "Microfone: HyperX Solocast",
+			"link": "https://www.amazon.com.br/Microfone-HyperX-Solocast-USB-Compat%C3%ADvel/dp/B08KFL3SFV/ref=sr_1_1?keywords=hyperx+solocast&qid=1673905212&sprefix=solocas%2Caps%2C263&sr=8-1&ufe=app_do%3Aamzn1.fos.e05b01e0-91a7-477e-a514-15a32325a6d6"
+		}
+	],
+
+	"Desk": [
+		{
+			"name": "Alexa",
+			"link": "https://www.amazon.com.br/Echo-Dot-3%C2%AA-Gera%C3%A7%C3%A3o-Cor-Preta/dp/B07PDHSJ1H/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=C4X84NX6NXTV&keywords=Alexa&qid=1673905310&sprefix=alexa%2Caps%2C198&sr=8-2&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751"
+		},
+		{
+			"name": "Controle Universal - Positivo",
+			"link": "https://www.amazon.com.br/Positivo-Casa-Inteligente-11151523-Universal/dp/B085RNT8B9/ref=sr_1_1?keywords=positivo+casa+inteligente&qid=1673905348&sprefix=positi%2Caps%2C211&sr=8-1"
+		},
+		{
+			"name": "Funko Pop Wonder Woman",
+			"link": "https://www.amazon.com.br/Funko-Pop-Wonder-Imperial-Multicor/dp/B08CNNRNDQ/ref=sr_1_1?keywords=funko+pop+mulher+maravilha&qid=1673905412&sprefix=funko+pop+mulher+mara%2Caps%2C198&sr=8-1"
+		},
+		{
+			"name": "Base Cooler para Notebook",
+			"link": "https://www.amazon.com.br/Notebook-AC166-Multilaser-Acess%C3%B3rios-Notebooks/dp/B0752J5F99/ref=sr_1_8?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=PEY0IX64K0YV&keywords=suporte+de+note&qid=1673905464&sprefix=suporte+de+note%2Caps%2C203&sr=8-8"
+		},
+		{
+			"name": "Suporte Articulado - F80N ELG",
+			"link": "https://www.amazon.com.br/Suporte-Monitor-Elg-F80N-Preto/dp/B0765KZ264/ref=sr_1_5?keywords=suporte+de+monitor&qid=1673905574&sprefix=suporte+de+moni%2Caps%2C205&sr=8-5&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d"
+		},
+		{
+			"name": "Braço articulado para microfone",
+			"link": "https://www.amazon.com.br/Pedestais-suporte-microfone-studio-filter/dp/B08WT9M4FD/ref=sr_1_6?crid=4YKBH002X8G5&keywords=suporte+de+microfone&qid=1673905673&sprefix=suporte+de+micro%2Caps%2C205&sr=8-6"
+		}
+	]
+}

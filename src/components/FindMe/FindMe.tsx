@@ -1,5 +1,5 @@
-import Title from "./Title";
-import FindMeItem from "./FindMeItem";
+import Title from "../Title";
+import FindMeItem from "../FindMe/FindMeItem/FindMeItem";
 
 import { BsLinkedin, BsGithub, BsSpotify } from "react-icons/bs";
 import { GrInstagram } from "react-icons/gr";

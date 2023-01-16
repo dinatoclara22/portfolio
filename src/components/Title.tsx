@@ -1,9 +1,19 @@
-interface Props {
+import React from "react";
+
+interface Props extends React.HTMLAttributes<HTMLHeadingElement> {
 	text: string;
 }
 
-export default function Title({ text }: Props) {
+export default function Title({ text, ...props }: Props) {
+
+	//Definindo um estilo default
+	const className = "text-center md:text-left text-2xl font-bold mb-9 ".concat(
+		props?.className || ""
+	);
+
 	return (
-		<h1 className="text-center md:text-left text-2xl font-bold mb-9">{text}</h1>
+		<h1 {...props} className={className}>
+			{text}
+		</h1>
 	);
 }
