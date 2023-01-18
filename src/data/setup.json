@@ -51,5 +51,23 @@
 			"name": "Braço articulado para microfone",
 			"link": "https://www.amazon.com.br/Pedestais-suporte-microfone-studio-filter/dp/B08WT9M4FD/ref=sr_1_6?crid=4YKBH002X8G5&keywords=suporte+de+microfone&qid=1673905673&sprefix=suporte+de+micro%2Caps%2C205&sr=8-6"
 		}
+	],
+	"Code": [
+		{
+			"name": "IDE - VS Code",
+			"link": "https://code.visualstudio.com/"
+		},
+		{
+			"name": "VS Code - Config",
+			"link": "https://gist.github.com/dinatoclara22/ce78ccdc23b77926e3d6ee9b78dbdc1f"
+		},
+		{
+			"name": "Theme - Evondev Dracula Normal Contrast",
+			"link": "https://marketplace.visualstudio.com/items?itemName=evondev.dracula-high-contrast"
+		},
+		{
+			"name": "Font - JetBrains Mono",
+			"link": "https://www.jetbrains.com/lp/mono/"
+		}
 	]
 }
