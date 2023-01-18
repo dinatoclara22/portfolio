@@ -1,10 +1,10 @@
-import profileImg from "/assets/profile-img.svg";
+import profileImg from "/assets/memoji_2.png";
 import Button from "./Button";
 export default function Header() {
 	return (
 		<header className="flex flex-col md:flex-row justify-center items-center">
 			<img
-				className="mb-8 w-[152px] h-[152px] rounded-full"
+				className="mb-8 h-[220px]"
 				src={profileImg}
 				alt="Imagem de Perfil"
 			/>
