@@ -1,13 +1,10 @@
 import Button from "./Button";
+import profilePic from "../assets/memoji_2.png";
 
 export default function Header() {
 	return (
 		<header className="flex flex-col md:flex-row justify-center items-center">
-			<img
-				className="mb-8 h-[220px]"
-				src="/assets/memoji_2.png"
-				alt="Imagem de Perfil"
-			/>
+			<img className="mb-8 h-[220px]" src={profilePic} alt="Imagem de Perfil" />
 			<section className="flex flex-col md:ml-10">
 				<h1 className="text-[26px] text-center md:text-left md:text-3xl font-bold mb-4">
 					Hey, I&apos;m Clara Dinato👋
