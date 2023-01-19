@@ -2,7 +2,7 @@ import FindMe from "./components/FindMe/FindMe";
 import Header from "./components/Header";
 import ProgrammingLanguage from "./components/ProgrammingLangueages";
 import Setup from "./components/Setup";
-import Works from "./components/Works/Works";
+import Works from "./components/Works";
 
 export default function App() {
 	return (
