@@ -1,10 +1,10 @@
 {
-  "Projects" : [
+  "Projects": [
     {
       "link": "https://github.com/dinatoclara22/home-you",
       "src": "/assets/homeyou.svg",
       "alt": "HomeYou"
-    }, 
+    },
     {
       "link": "https://github.com/dinatoclara22/rachi-project",
       "src": "/assets/rachi.svg",
