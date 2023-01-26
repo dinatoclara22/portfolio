@@ -1,23 +1,23 @@
 {
-  "Projects" : [
+  "Projects": [
     {
       "link": "https://github.com/dinatoclara22/home-you",
-      "src": "/public/assets/homeyou.svg",
+      "src": "/assets/homeyou.svg",
       "alt": "HomeYou"
-    }, 
+    },
     {
       "link": "https://github.com/dinatoclara22/rachi-project",
-      "src": "/public/assets/rachi.svg",
+      "src": "/assets/rachi.svg",
       "alt": "Rachi"
     },
     {
       "link": "https://github.com/dinatoclara22/helpdog",
-      "src": "/public/assets/helpdog.svg",
+      "src": "/assets/helpdog.svg",
       "alt": "HelpDog"
     },
     {
       "link": "https://github.com/dinatoclara22/jordanShoes",
-      "src": "/public/assets/jordanshoes.svg",
+      "src": "/assets/jordanshoes.svg",
       "alt": "Jordan Shoes"
     }
   ]
