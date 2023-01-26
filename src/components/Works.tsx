@@ -8,8 +8,7 @@ export default function Works() {
 			<div className="mt-14 mb-9">
 				<Title text="My favorite works" />
 			</div>
-
-			{/* {Object.entries(project).map(([category, items]) => (
+			{Object.entries(project).map(([category, items]) => (
 				<div
 					key={category}
 					className="flex flex-wrap gap-6 items-center justify-center md:justify-start"
@@ -24,7 +23,7 @@ export default function Works() {
 						</a>
 					))}
 				</div>
-			))} */}
+			))}
 		</section>
 	);
 }
