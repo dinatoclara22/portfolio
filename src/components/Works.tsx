@@ -6,7 +6,7 @@ export default function Works() {
 	return (
 		<section>
 			<div className="mt-14 mb-9">
-				<Title text="My favorite works" />
+				<Title text="Projects " />
 			</div>
 			{Object.entries(project).map(([category, items]) => (
 				<div
