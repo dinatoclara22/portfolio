@@ -10,28 +10,17 @@ export default function Header() {
 			/>
 			<section className="flex flex-col md:ml-10">
 				<h1 className="text-[26px] text-center md:text-left md:text-3xl font-bold mb-4">
-					Hey, I&apos;m Clara Dinato👋
+					Olá, dev!👋
 				</h1>
 
 				<p className="mb-4 text-center md:text-left">
-					I&apos;m a{" "}
-					<span className="text-indigo-500 font-bold">Front End Developer</span>{" "}
-					majoring in Software Engineering. I have almost a year of experience
-					in the company Semove where I build websites. I have{" "}
-					<span className="text-indigo-500 font-bold">Front End Skills</span> in
-					HTML, CSS/SASS, JavaScript, Bootstrap, Tailwind and ReactJS. I&apos;m
-					always keen to learn something new and always trying to be updated
-					with the technological news.
+				Me chamo Clara Dinato, sou Estagiária na <span className="text-indigo-500 font-bold">Globo</span> em Engenharia de Dados e estou me graduando em Engenharia de Software. Meu último projeto foi o site <a className="text-indigo-500 font-bold" href="https://faleonibus.com.br/">Fale Ônibus</a> onde atuei como front-end.
 				</p>
 
 				<div className="flex gap-3 justify-center md:justify-start">
 					<Button
-						text="Contact Me"
+						text="E-mail"
 						href="mailto:contatodinatoclara@gmail.com"
-					/>
-					<Button
-						text="CV"
-						href="https://drive.google.com/file/d/1qoRrWolZ3G2yGtPaYQ6kVNrrj_BUcXiU/view?usp=sharing"
 					/>
 				</div>
 			</section>

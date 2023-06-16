@@ -15,7 +15,7 @@ import {
 export default function ProgrammingLanguage() {
 	return (
 		<section>
-			<Title text="Languages and Tools" />
+			<Title text="Linguagens e ferramentas" />
 			<div className=" flex flex-wrap gap-6 items-center justify-center md:justify-start">
 				<RiHtml5Line size={40} className="text-indigo-500" />
 				<RiCss3Fill size={40} className="text-indigo-500" />

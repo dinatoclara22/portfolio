@@ -9,7 +9,7 @@ export default function FindMe() {
 	return (
 		<section>
 			<div className="mt-9">
-				<Title text="Where you can find me" />
+				<Title text="Me encontre no:" />
 			</div>
 			<div className="flex gap-8 items-center justify-center md:justify-start">
 				<FindMeItem href="https://www.instagram.com/dinato_22/">
